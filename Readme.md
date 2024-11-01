@@ -3,7 +3,7 @@
 A JSON parser written in Rust. That project was developed for educational purposes, with the main aim of enhancing skills in creating projects using Rust and PEST for building custom parser.
 
 ## Developed grammar rules
-number - for parsing numbers
+number - for parsing numbers\\
 string - for parsing strings
 
 
