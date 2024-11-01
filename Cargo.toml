@@ -1,0 +1,11 @@
+[package]
+name = "json_parser"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "JSON parser written in Rust"
+
+[dependencies]
+pest_derive = "2.7.14"
+pest = "2.7.14"
+anyhow = "1.0.91"
